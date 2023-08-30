@@ -1,0 +1,70 @@
+#logo{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 200px;
+}
+
+
+#subtitle{
+    
+    text-align: center;
+    background-color: rgba(243, 245, 145, 0.514);
+    color: rgb(7, 133, 165);
+    font-size: 15px;
+    padding: 0.1em;
+    
+    
+}
+
+
+
+.main {
+    
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+.focaccia{
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(175, 172, 172);
+}
+
+img + p{
+    text-align: center;
+    color: gray;
+}
+.featured{ 
+    border-left: 1px solid orange;
+    padding-left: 2em;
+    margin-bottom: 3em;
+
+}
+.featured p {
+    color: orange;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+a{
+    color: rgb(7, 133, 165);
+}
+.ingredients p {font-weight: bold;}
+.ingredients ul {
+    line-height: 2;
+}
+hr {
+height: 1px;
+background-color: rgb(67, 247, 247);
+opacity: 0.5;
+}
+ol {
+    font-weight: bold;
+}
+.method{
+    margin-left: 2.5em;
+}
